@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Context Detection Sensor Readings</string>
+
+    <string name="country_prompt">Choose a Mode</string>
+
+    <string-array name="country_arrays">
+        <item>Choose a Mode</item>
+        <item>Taxi_Car</item>
+        <item>Bus</item>
+        <item>MRT</item>
+        <item>Bicycle</item>
+        <item>Walking</item>
+        <item>Running</item>
+        <item>Still</item>
+        <item>Staircase</item>
+        <item>Taking Lift</item>
+    </string-array>
+</resources>
